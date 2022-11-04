@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M1k8SA
-- 👀 I’m interested in physics.
+- 👀 I’m interested in some basic knowledge and skills of C.By the way,I major in physics.
 - 🌱 I’m currently learning in University of Science and Technology of China.
 - 💞️ I’m looking to collaborate on nothing,because I'm too trivial now.
 - 📫 My email:jyl_530800134@mail.ustc.edu.cn   Or you can reach me through QQ,and my QQ is:530800134.
